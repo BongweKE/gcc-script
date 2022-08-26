@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo compiling $FILES_2_COMPILE ...
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 $FILES_2_COMPILE
+echo test run using
+echo "$" ./a.out.
+echo ...
+echo ...
+./a.out
