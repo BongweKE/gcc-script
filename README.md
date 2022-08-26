@@ -1,5 +1,5 @@
 # gcc-script
-![Alt](https://imgur.com/gallery/t6kvvTG "Unix")
+![Alt](https://i.imgur.com/t6kvvTG.png "Unix")
 A script to make it easier to compile given C file in betty standard, Run it and
 test the output on first run:
 Run this using the commands 
